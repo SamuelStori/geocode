@@ -6,7 +6,7 @@ We use this to get lat, lon from data. The code iterate over all the geocoders i
 
 
 # TODO:
-1. This is one first example, obviously we need to get rid of the list in the main fuction.
+1. This is one first example, obviously we need to get rid of the lists in the main fuction.
 2. See the reason of failures in particular geocoders.
     - Maybe some services are failling because the constructor needs extra parameters.  
 3. Explore bulk invokations.
