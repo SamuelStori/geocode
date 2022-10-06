@@ -1,6 +1,6 @@
 name: geocoder
 channels:
-  - defaults
+  - conda-forge
 dependencies:
   - jupyter
   - pandas
