@@ -3,6 +3,9 @@ delivery_pop.sql
 get_geolocation_pandas.py
 get_geolocation_bulk.py
 get_geohash.py
+.DS_Store
+util
+*.csv
 
 
 # Byte-compiled / optimized / DLL files
