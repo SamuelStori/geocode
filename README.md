@@ -12,3 +12,7 @@ We use this to get lat, lon from data. The code iterate over all the geocoders i
 3. Explore bulk invokations.
     - The caveat here would be that not a lot of services allow bulk requests so we would need to look into the Terms of Usage of every single one.
 4. Explore pandas usage: https://geopy.readthedocs.io/en/stable/index.html#usage-with-pandas
+
+
+## Contributors:
+Dillan Aguirre, Eduardo Celis, Eduardo Abreu, Ivan Guerrero.
