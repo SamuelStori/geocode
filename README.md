@@ -1,8 +1,13 @@
 
 # Geocoder for stori data
 
-
 We use this to get lat, lon from data. The code iterate over all the geocoders in `geopy` and tries to get the data. Then, if that particular service doesn't work or throw some exceptions, it will try with another one. 
+
+
+## To run the sript:
+1. `conda env create -f environment.yml`
+2. `conda activate geocoder`
+3. `python get_geolocation_v2.py`
 
 
 # TODO:

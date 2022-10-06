@@ -1,0 +1,13 @@
+name: geocoder
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - pandas
+  - geopy
+  - geopandas
+  - tqdm
+  - pandas-stubs
+  - sqlalchemy
+  - flake8
+  - isort
