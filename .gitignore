@@ -1,5 +1,5 @@
 # Personal and other files
-delivery_pop.sql
+*.sql
 get_geolocation_pandas.py
 get_geolocation_bulk.py
 get_geohash.py
