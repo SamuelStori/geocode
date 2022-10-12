@@ -7,7 +7,7 @@ We use this to get lat, lon from data. The code iterate over all the geocoders i
 ## To run the sript:
 1. `conda env create -f environment.yml`
 2. `conda activate geocoder`
-3. `python get_geolocation_v2.py`
+3. `python3 get_geolocation_v2.py [file.sql] [address_column_name] [schema_to_upload] [table_to_upload]`
 
 
 # TODO:
