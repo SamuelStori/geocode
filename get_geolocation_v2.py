@@ -86,7 +86,7 @@ if __name__ == "__main__":
     df = rs.get_result_df(query_sample)
     df = get_lat_long(df=df, col=col_name)
 
-    print("Uploading to Redshift")
+    print(f"Uploading to {schema_rs}.{table_rs} in Redshift")
 
     df.to_sql(
         schema=schema_rs,
